@@ -1,0 +1,15 @@
+D:\GB\Знакомство с языками программирования\ДЗ 7\bin\Debug\net6.0\ДЗ 7.exe
+D:\GB\Знакомство с языками программирования\ДЗ 7\bin\Debug\net6.0\ДЗ 7.deps.json
+D:\GB\Знакомство с языками программирования\ДЗ 7\bin\Debug\net6.0\ДЗ 7.runtimeconfig.json
+D:\GB\Знакомство с языками программирования\ДЗ 7\bin\Debug\net6.0\ДЗ 7.dll
+D:\GB\Знакомство с языками программирования\ДЗ 7\bin\Debug\net6.0\ДЗ 7.pdb
+D:\GB\Знакомство с языками программирования\ДЗ 7\obj\Debug\net6.0\ДЗ 7.csproj.AssemblyReference.cache
+D:\GB\Знакомство с языками программирования\ДЗ 7\obj\Debug\net6.0\ДЗ 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Знакомство с языками программирования\ДЗ 7\obj\Debug\net6.0\ДЗ 7.AssemblyInfoInputs.cache
+D:\GB\Знакомство с языками программирования\ДЗ 7\obj\Debug\net6.0\ДЗ 7.AssemblyInfo.cs
+D:\GB\Знакомство с языками программирования\ДЗ 7\obj\Debug\net6.0\ДЗ 7.csproj.CoreCompileInputs.cache
+D:\GB\Знакомство с языками программирования\ДЗ 7\obj\Debug\net6.0\ДЗ 7.dll
+D:\GB\Знакомство с языками программирования\ДЗ 7\obj\Debug\net6.0\refint\ДЗ 7.dll
+D:\GB\Знакомство с языками программирования\ДЗ 7\obj\Debug\net6.0\ДЗ 7.pdb
+D:\GB\Знакомство с языками программирования\ДЗ 7\obj\Debug\net6.0\ДЗ 7.genruntimeconfig.cache
+D:\GB\Знакомство с языками программирования\ДЗ 7\obj\Debug\net6.0\ref\ДЗ 7.dll
